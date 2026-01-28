@@ -1,6 +1,5 @@
 import { useState } from "react";
 import { FaInstagram, FaFacebookF, FaTwitter } from "react-icons/fa";
-
 export default function Header() {
   const [showSocial, setShowSocial] = useState(false);
 
@@ -8,7 +7,7 @@ export default function Header() {
     <section className="header">
 
       <div className="logoContainer">
-        <img src="/images/1.png" alt="Chai Culture Logo" />
+        <img src="./src/images/1.png" alt="Chai Culture Logo" />
       </div>
 
       <div className="navbarContainer">
