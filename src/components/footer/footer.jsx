@@ -22,7 +22,7 @@ export default function Footer() {
     return (
         <footer ref={footerRef} className="footer">
             <div className="footerContent">
-                <img src=".\src\images\1.png" alt="Chai Culture Logo" className="footerLogo" />
+                <img src="https://res.cloudinary.com/dj5stvxl3/image/upload/v1769610737/1_hs5erf.png" alt="Chai Culture Logo" className="footerLogo" />
                 <p className="footerTagline">Brew the Royal Tradition</p>
 
                 <div className="footerSocials">

@@ -7,7 +7,7 @@ export default function Header() {
     <section className="header">
 
       <div className="logoContainer">
-        <img src=".\src\images\1.png" alt="Chai Culture Logo" />
+        <img src="https://res.cloudinary.com/dj5stvxl3/image/upload/v1769610737/1_hs5erf.png" alt="Chai Culture Logo" />
       </div>
 
       <div className="navbarContainer">
