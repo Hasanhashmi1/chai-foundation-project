@@ -3,7 +3,7 @@
   "private": true,
   "version": "0.0.0",
   "type": "module",
-  "homepage": "https://Hasanhashmi1.github.io/chai-foundation-project",
+  "homepage": "https://hasanhashmi1.github.io/chai-foundation-project",
   "scripts": {
     "dev": "vite",
     "build": "vite build",
