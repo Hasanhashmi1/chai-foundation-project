@@ -8,7 +8,7 @@ export default function Header() {
     <section className="header">
 
       <div className="logoContainer">
-        <img src="/1.png" alt="Chai Culture Logo" />
+        <img src="/images/1.png" alt="Chai Culture Logo" />
       </div>
 
       <div className="navbarContainer">
